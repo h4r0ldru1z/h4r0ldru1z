@@ -9,10 +9,11 @@ I am working on different public/practice projects at the time, in order to mast
 Willing to learn about Python, Vue, React. My passion is for logics, automation, serving and developing, of course!
 
 Wann know about me?
-- I am a triathlete, so I really understand discipline, commitment, effort, hardwork, and challenges.
-- Life-balance is a must nowadays, I am willing to work remote, and/or locally if it is in Bogota; altough, I could travel from time to time
-- I would love to callaborate on real life projects, challenges and more
+- I am a triathlete, so I really understand discipline, commitment, effort, hardwork, and challenges.🏊🚴‍♂️🏃‍♂️
+- Life-balance is a must nowadays, I am willing to work remote, and/or locally if it is in Bogota; altough, I could travel from time to time 👪
+- I would love to callaborate on real life projects, challenges and more 🤝
 
+www.linkedin.com/in/harold-ruiz-jovel
 
 
 <!--

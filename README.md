@@ -1,6 +1,6 @@
 ### Hi there | Hola 👋
 
-I am Harold Ruiz, althoug new to developing world, I am a quick learner, and I am currently practicing a lot, working on different tutorials (youtube, twitter, linkedin), 
+I am Harold Ruiz, although new to developing world, I am a quick learner, and I am currently practicing a lot, working on different tutorials (youtube, twitter, linkedin), 
 including JS, React, Python and more. Just finished a  Full Stack Software Developer bootcamp @4GeeksAcademy and finishing another one from Udemy, 
 I believe kowledge comes from both, sharing and trying!
 

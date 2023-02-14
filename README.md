@@ -25,7 +25,7 @@ Wanna know about me?
 - Life-balance is a must nowadays, I am willing to work remote, and/or locally if it is in Bogota; altough, I could travel from time to time 👪
 - I would love to callaborate on real life projects, challenges and more 🤝
 
-<a href="www.linkedin.com/in/harold-ruiz-jovel" rel="no follow">
+<a href="www.linkedin.com/in/harold-ruiz-jovel" rel="nofollow">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wiljmorales/" height="30" width="40" style="max-width: 100%;" class=""/>
 </a>
   </body>

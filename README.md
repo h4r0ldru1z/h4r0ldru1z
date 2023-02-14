@@ -14,7 +14,7 @@ Interested in:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;" class="">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;" class="">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;" class="">
-<img src="[https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png](https://avatars.githubusercontent.com/u/6128107?s=280&v=4)" alt="vue" width="40" height="40" style "max-width":100%;", class="">
+<img src="https://www.pngwing.com/es/free-png-kvtsw" alt="vue" width="40" height="40" style "max-width":100%;", class="">
 
 Passionate about logics, automation, serving and developing, of course!
 

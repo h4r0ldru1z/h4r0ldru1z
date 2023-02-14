@@ -1,3 +1,4 @@
+<body>
 <h1><strong>Hi there | Hola 👋</h1>
 
 I am Harold Ruiz, although new to developing world, I am a quick learner, and I am currently practicing a lot, working on different tutorials (youtube, twitter, linkedin), 
@@ -18,7 +19,7 @@ Wanna know about me?
 
 www.linkedin.com/in/harold-ruiz-jovel
 
-
+  </body>
 <!--
 **h4r0ldru1z/h4r0ldru1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
